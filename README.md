@@ -25,7 +25,7 @@
 
 ## Getting Started
 ```python
-git clone
+git clone https://github.com/sottom/scraping_tutorial.git
 pip install -r requirements.txt
 python {any_file}.py
 ```
