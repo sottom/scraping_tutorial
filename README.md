@@ -26,8 +26,17 @@
 
 ## Getting Started
 ```python
+# get the code
 git clone https://github.com/sottom/scraping_tutorial.git
+cd scraping_tutorial
+
+# create virtual environment
+python3 -m venv venv
+
+# install dependencies
 pip install -r requirements.txt
+
+# run a any file you like
 python {any_file}.py
 ```
 
