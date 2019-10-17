@@ -1,6 +1,7 @@
 # Web Scraping
 - [Web Scraping](#web-scraping)
   - [Getting Started](#getting-started)
+  - [Websites for Scraping Tutorial (Tech Talk):](#websites-for-scraping-tutorial-tech-talk)
   - [Important Points](#important-points)
     - [Be Respectful](#be-respectful)
     - [Can websites figure out you're scraping them?](#can-websites-figure-out-youre-scraping-them)
@@ -29,6 +30,15 @@ git clone https://github.com/sottom/scraping_tutorial.git
 pip install -r requirements.txt
 python {any_file}.py
 ```
+
+## Websites for Scraping Tutorial (Tech Talk):
+
+1. https://www.ratemyprofessors.com/
+2. https://www.premierleague.com/players
+3. https://www.zacks.com/stock/research/AAPL/earnings-announcements
+4. https://free-proxy-list.net/
+5. https://www.timeanddate.com/holidays/us/
+6. https://codepen.io/gaearon/pen/oWWQNa
 
 
 ## Important Points
