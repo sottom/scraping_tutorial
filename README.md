@@ -83,8 +83,10 @@ python {any_file}.py
 - check for APIs
     - 1_professor.py
     - 2_sports.py
+      - unfortunately, this site has started blocking unauthorized calls.
 - check for data in the global scope
     - 3_zachs.py
+      - you will need to [download the correct chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads). I have chrome version 80 on windows, so I am using that chromedriver.
 
 
 ## Requests & BeautifulSoup
